@@ -1,6 +1,6 @@
 # VierBot — Autonomous SLAM & Navigation Mobile Robot
 
-An autonomous differential-drive medical emergency aid robot powered by **ROS 2**, **Slam Toolbox**, **Nav2**, **Raspberry Pi 5**, and **ESP32** microcontrollers.
+An autonomous differential-drive robot powered by **ROS 2**, **Slam Toolbox**, **Nav2**, **Raspberry Pi 5**, and **ESP32** microcontroller.
 
 ---
 
