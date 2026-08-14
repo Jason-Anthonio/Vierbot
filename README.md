@@ -1,6 +1,10 @@
 # VierBot — Autonomous SLAM & Navigation Mobile Robot
 
-An autonomous differential-drive robot powered by **ROS 2**, **Slam Toolbox**, **Nav2**, **Raspberry Pi 5**, and **ESP32** microcontroller.
+An autonomous differential-drive robot powered by **ROS2**, **Slam Toolbox**, **Nav2**, **Raspberry Pi 5**, and **ESP32** microcontroller.
+
+https://github.com/user-attachments/assets/129b8a9d-0c3a-4377-8059-29e861c047ae
+
+<img width="3000" height="4000" alt="20260106_161609 (1)" src="https://github.com/user-attachments/assets/f11bd18e-bbbb-43a4-8db0-4195b7e8a2a9" />
 
 ---
 
