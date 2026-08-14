@@ -9,7 +9,7 @@ An autonomous differential-drive medical emergency aid robot powered by **ROS 2*
 ```
 [ Remote PC / Workstation (RViz2) ]
          ▲
-         │ (WiFi / ROS 2 DDS Network)
+         │ (WiFi SSH)
          ▼
 [ Raspberry Pi 5 (Ubuntu + ROS 2) ]
   ├── slam_toolbox (2D Online Async SLAM)
@@ -22,7 +22,7 @@ An autonomous differential-drive medical emergency aid robot powered by **ROS 2*
          ▼
 [ ESP32 Microcontroller ]
   ├── Encoder Interrupts (JGA25-370 Dual Hall Effect)
-  ├── Motor Control PWM (BTS7960 / Cytron Driver)
+  ├── Motor Control PWM (BTS7960 Driver)
   └── Closed-Loop Velocity Controller
 ```
 
