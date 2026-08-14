@@ -1,0 +1,9 @@
+<library path="diffdrive_arduino">
+  <class name="diffdrive_arduino/DiffBotSystemHardware"
+         type="diffdrive_arduino::DiffBotSystemHardware"
+         base_class_type="hardware_interface::SystemInterface">
+    <description>
+      ros2_control hardware interface for differential drive robots communicating with Arduino or ESP32 via serial.
+    </description>
+  </class>
+</library>
